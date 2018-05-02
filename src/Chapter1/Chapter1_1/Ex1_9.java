@@ -4,7 +4,7 @@ import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
 public class Ex1_9 {
-
+	
 	public static void main(String[] args) {
 		//将一个正整数N用二进制表示饼转换为一个String类型的值s
 		int input = StdIn.readInt();

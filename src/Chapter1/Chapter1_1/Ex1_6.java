@@ -1,9 +1,7 @@
 package Chapter1.Chapter1_1;
 
 import edu.princeton.cs.algs4.StdOut;
-
 public class Ex1_6 {
-	
 	public static void main(String[] args)
 	{
 		int f = 0;
@@ -15,10 +13,8 @@ public class Ex1_6 {
 			g = f - g;
 		}
 	}
-
-}
-
 /*
+0
 1
 1
 2
@@ -34,4 +30,6 @@ public class Ex1_6 {
 233
 377
 610
- */
+*/
+
+}
