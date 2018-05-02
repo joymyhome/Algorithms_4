@@ -9,11 +9,6 @@ public class Ex1_14 {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
 		scan.close();
-		log2(n);
-	}
-	
-	private static void log2(int n)
-	{
 		int expo = 0;
 		int result = 1;
 		while(result < n/2+1)
@@ -22,6 +17,9 @@ public class Ex1_14 {
 			expo += 1;
 		}
 		System.out.println("The maximum integer smaller than log2N = "+ expo);
+		
+
+
 	}
 
 }
