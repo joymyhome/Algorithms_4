@@ -1,7 +1,6 @@
 package Chapter1.Chapter1_1;
 
 public class C1_general {
-
 	public static void main(String[] args)
 	{
 		//1.1.1
@@ -23,8 +22,6 @@ public class C1_general {
 		System.out.println(f); //10.0
 		System.out.println(4.1>=4);//true
 		System.out.println(1+2+"3");//33 String
-		
-		
-		
 	}
+
 }
