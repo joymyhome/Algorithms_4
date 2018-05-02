@@ -37,8 +37,6 @@ public class Ex1_13 {
 		System.out.print("Give a number to m and n: ");
 		Scanner scan = new Scanner(System.in);
 		int inputM = scan.nextInt();
-		//System.out.print("Give a number to n: ");
-		//Scanner scan2 = new Scanner(System.in);
 		int inputN = scan.nextInt();
 		scan.close();
 		int[][] mat = new int[inputM][inputN];
@@ -59,3 +57,16 @@ public class Ex1_13 {
        
 
 }
+/*
+Give a number to m and n: 3 5
+The matrix is 3 * 5
+13 67 18 60 91 
+25 83 70 9 30 
+86 47 45 48 60 
+The matrix is 5 * 3
+13 25 86 
+67 83 47 
+18 70 45 
+60 9 48 
+91 30 60 
+*/
