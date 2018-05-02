@@ -4,7 +4,7 @@ import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
 public class Ex1_3 {
-	public static void main(String[] args){
+public static void main(String[] args){
 		
 		StdOut.println("Print 3 integers: ");
 		int a = StdIn.readInt();

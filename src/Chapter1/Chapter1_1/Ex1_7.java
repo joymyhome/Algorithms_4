@@ -1,5 +1,6 @@
 package Chapter1.Chapter1_1;
 
+
 import edu.princeton.cs.algs4.StdOut;
 
 public class Ex1_7 {
