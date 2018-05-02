@@ -30,6 +30,14 @@ public class Ex1_11 {
 		printBoolean(matrix);
 
 	}
+/*
+ *output
+ 012
+0*  
+1 * 
+2  *
+
+*/
 
 		
 
