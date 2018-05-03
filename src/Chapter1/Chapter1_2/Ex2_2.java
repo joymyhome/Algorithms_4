@@ -25,6 +25,7 @@ public class Ex2_2 {
 			intervals[i] = new Interval1D(couples[i][0], couples[i][1]);
 			}
 		}
+		scan.close();
 		
 		//if intersect
 		for(int i = 0; i < N-1; i ++)
@@ -36,5 +37,6 @@ public class Ex2_2 {
 			}
 
 	}
+	
 
 }
